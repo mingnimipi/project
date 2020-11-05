@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atmintis</string>
+    <string name="recordMessage">No audio found, begin recording</string>
+    <string name="playMessage">Begins playing audio</string>
+
+</resources>
